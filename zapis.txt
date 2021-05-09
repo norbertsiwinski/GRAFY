@@ -1,0 +1,10 @@
+0 <- Dystans: 0
+1 <- 4 <- 0 <- Dystans: 82
+2 <- 0 <- Dystans: 15
+3 <- 0 <- Dystans: 13
+4 <- 0 <- Dystans: 12
+5 <- 0 <- Dystans: 22
+6 <- 9 <- 0 <- Dystans: 47
+7 <- 9 <- 0 <- Dystans: 40
+8 <- 4 <- 0 <- Dystans: 29
+9 <- 0 <- Dystans: 18
